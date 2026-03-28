@@ -13,7 +13,6 @@
 ![Location](https://img.shields.io/badge/Antananarivo,_Madagascar-1a1a2e?style=flat-square&logo=googlemaps&logoColor=4169E1)
 ![Education](https://img.shields.io/badge/ESPIC_2024,_3rd_in_class-1a1a2e?style=flat-square&logo=mortarboard&logoColor=4169E1)
 ![42](https://img.shields.io/badge/42_Antananarivo-1a1a2e?style=flat-square&logo=42&logoColor=4169E1)
-![Views](https://komarev.com/ghpvc/?username=offertchrist03&style=flat-square&color=4169E1&labelColor=1a1a2e)
 
 </div>
 
